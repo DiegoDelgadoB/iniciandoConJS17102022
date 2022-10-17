@@ -46,3 +46,10 @@ var numeroUno = parseInt(numeroUnoString);
 var numeroDos = parseInt(numeroDosString);
 
 console.log('La suma de los números es: ' + (numeroUno + numeroDos));
+
+// operadores 
+// aritméticos
+// + - / * %
+// comparación
+// < > <= >= != == === !== 
+// caracteres
